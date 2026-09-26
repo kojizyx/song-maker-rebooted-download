@@ -1,7 +1,9 @@
 # Song Maker Rebooted
 
-Windows setup.
+by koji.
 
-Download the latest file from Releases.
+the windows setup.
 
-The app is closed source. This place only hosts the setup file.
+the file is in releases. download that.
+
+closed source. this repo is just the download.
