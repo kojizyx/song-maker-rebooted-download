@@ -2,8 +2,10 @@
 
 by koji.
 
-the windows setup.
+windows: download `SongMakerRebooted.msi` from releases and run it.
 
-the file is in releases. download that.
+linux: download `SongMakerRebooted.AppImage`, make it executable, and open it.
+
+songs save in `Documents/Song Maker Rebooted`.
 
 closed source. this repo is just the download.
